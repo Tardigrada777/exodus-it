@@ -24,4 +24,4 @@ let items = [];
 
 // ================== End of your code ==================
 
-renderList(data);
+renderList(items);
